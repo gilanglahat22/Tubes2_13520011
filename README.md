@@ -14,7 +14,7 @@
 
 3. Put this command on your clips terminal
    ```sh
-   (load "<Your path directory>/Tubes2_13520011/src/diasease.clp")
+   (load "<Your path directory>/Tubes2_13520011/src/main.clp")
    ```
 
 4. Reset fact on the Clips
